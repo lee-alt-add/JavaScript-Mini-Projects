@@ -1,12 +1,29 @@
+
 body {
-	background: linear-gradient(to right, #4facfe, #00f2fe);
-	font-family: sans-serif;
-	display: flex;
-	justify-content: center;
-	align-items: flex-start;
-	min-height: 100vh;
-	padding: 50px;
+  position: relative;
+  margin: 0;
+  font-family: sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 50px;
+  overflow: hidden;
 }
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-image: url("images/back3.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: blur(2px);
+  z-index: -1;
+}
+
 
 .todo-container {
 	background: white;
@@ -36,6 +53,20 @@ button {
 
 button:hover {
   background: #45a049;
+}
+
+#deleteBtn {
+  padding: 2px 15px;
+  border: none;
+  background: #c43737;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+#deleteBtn:hover {
+  transform: scale(1.2);
 }
 
 ul {
