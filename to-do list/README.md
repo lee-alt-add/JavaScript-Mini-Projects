@@ -1,6 +1,6 @@
 # 🧮 Simple Calculator
 
-A basic calculator web app built using **HTML**, **CSS**, and **JavaScript**. It supports standard arithmetic operations like addition, subtraction, multiplication, and division.
+A simple, clean, and interactive To-Do List web application built with HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
 
@@ -10,18 +10,17 @@ A basic calculator web app built using **HTML**, **CSS**, and **JavaScript**. It
 
 ## 📁 Features
 
-- Responsive UI
-- Clickable buttons for digits and operations
-- Clear (`C`) and evaluate (`=`) functions
-- Handles decimals
-- Styled with a modern gradient background
+- Add new tasks
+- Mark tasks as completed by clicking on them
+- Delete tasks with a delete button
+- Responsive and easy-to-use interface
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML for structure
-- CSS for styling and layout
-- JavaScript for functionality (DOM manipulation & calculation logic)
+- HTML5
+- CSS3 (including Flexbox and CSS filters)
+- Vanilla JavaScript (DOM manipulation and event handling)
 
 ---
