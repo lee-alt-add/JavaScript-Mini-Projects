@@ -4,7 +4,7 @@ A basic calculator web app built using **HTML**, **CSS**, and **JavaScript**. It
 
 ## 🌐 Live Demo
 
-> https://lee-alt-add.github.io/JavaScript-Mini-Projects/
+> https://lee-alt-add.github.io/JavaScript-Mini-Projects/Calculator-basic/
 
 ---
 
