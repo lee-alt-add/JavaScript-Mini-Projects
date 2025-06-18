@@ -4,7 +4,7 @@ A basic calculator web app built using **HTML**, **CSS**, and **JavaScript**. It
 
 ## 🌐 Live Demo
 
-> (Optional: add link here if deployed, e.g., GitHub Pages)
+> https://lee-alt-add.github.io/JavaScript-Mini-Projects/
 
 ---
 
@@ -18,12 +18,6 @@ A basic calculator web app built using **HTML**, **CSS**, and **JavaScript**. It
 
 ---
 
-## 📸 Screenshot
-
-> (Optional: insert screenshot here using `![screenshot](path/to/image.png)`)
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML for structure
@@ -31,9 +25,3 @@ A basic calculator web app built using **HTML**, **CSS**, and **JavaScript**. It
 - JavaScript for functionality (DOM manipulation & calculation logic)
 
 ---
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/simple-calculator.git
